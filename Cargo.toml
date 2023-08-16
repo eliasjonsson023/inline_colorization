@@ -4,7 +4,7 @@ version = "0.1.3"
 edition = "2021"
 authors = ["Elias Jonsson <e@ejon.eu>"]
 license = "MIT"
-description = "format!(Lets the user {color_red}colorize{color_reset} the and {style_underline}style the output{style_reset} text using inline variables);"
+description = "format!(Lets the user {color_red}colorize{color_reset} and {style_underline}style the output{style_reset} text using inline variables);"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
