@@ -1,5 +1,5 @@
 # inline_colorization
-add the library through:
+add the library through writing in the command prompt:
 ```
 cargo add inline_colorization
 ```
@@ -9,7 +9,7 @@ use inline_colorization::*;
 ```
 Then you can run:
 ```
-format!("Lets the user {color_red}colorize{color_reset} the and {style_underline}style the output{style_reset} text using inline variables");
+println!("Lets the user {color_red}colorize{color_reset} the and {style_underline}style the output{style_reset} text using inline variables");
 ```
 | Text Style Variables |
 |----------------------|
