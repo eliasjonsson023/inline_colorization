@@ -61,4 +61,8 @@ println!("Lets the user {color_red}colorize{color_reset} and {style_underline}st
 
 Just remember to reset the style, color or background when you want the default text setting
 
-  
+For an example of the expected result you can run:
+
+```
+cargo run --example all_codes
+```
